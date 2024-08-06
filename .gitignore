@@ -1,3 +1,9 @@
 .Trash/
 Library/
 *.tmp
+# Ignore specific directories
+Pictures/
+Library/
+*.tmp
+
+
